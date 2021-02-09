@@ -1,0 +1,16 @@
+[
+{
+  "modid": "eln2",
+  "name": "Electrical Age 2",
+  "description": "Electricity, in your base!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jrddunbr"],
+  "credits": "thx!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
